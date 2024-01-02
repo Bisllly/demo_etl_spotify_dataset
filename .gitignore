@@ -1,0 +1,13 @@
+helpers
+venv
+data
+stats
+tracks_data.parquet
+.env
+
+src/data
+src/tracks_data.parquet
+src/__pycache__
+
+notebooks/tracks_data.parquet
+notebooks/postgresql-42.7.1.jar

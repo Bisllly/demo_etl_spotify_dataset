@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+findspark
+pyspark
+psycopg2
+pyarrow
