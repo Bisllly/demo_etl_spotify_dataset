@@ -13,7 +13,7 @@ artists_table_create = ('''
   )
 ''')
 
-albums_table_create = ('''
+albums_table_create = ('''  
   CREATE TABLE IF NOT EXISTS albums (
       album_uri VARCHAR PRIMARY KEY,
       album_name VARCHAR

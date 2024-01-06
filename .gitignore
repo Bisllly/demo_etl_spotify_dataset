@@ -2,7 +2,7 @@ helpers
 venv
 data
 stats
-tracks_data.parquet
+notebooks/tracks_data.parquet
 .env
 
 src/data
