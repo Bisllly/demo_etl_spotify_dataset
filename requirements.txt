@@ -4,3 +4,5 @@ findspark
 pyspark
 psycopg2
 pyarrow
+nltk
+Flask
