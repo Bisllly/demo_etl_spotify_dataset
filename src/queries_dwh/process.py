@@ -46,4 +46,4 @@ def find_matching_songs(keywords, cur):
 
     unique_song_names = list(set([row[0] for row in rows]))
     print(unique_song_names)
-    return unique_song_namesa
+    return unique_song_names
