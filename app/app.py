@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-from src.queries_dwh.process import *
+from src.queries_dwh.process import get_song_recommendations
 
 app = Flask(__name__)
 

@@ -5,7 +5,7 @@
 
 #### to run `app.py`:
 ```bash
-python app.py
+python -m app.app
 ```
 
 #### demo link: https://youtu.be/ugyHVkcuqGk

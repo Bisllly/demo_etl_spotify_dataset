@@ -13,3 +13,6 @@ notebooks/tracks_data.parquet
 notebooks/postgresql-42.7.1.jar
 
 src/queries_dwh/__pycache__
+
+*.pyc
+__pycache__/
